@@ -1,10 +1,9 @@
-### Hey There!
-
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterbinks)](https://github.com/anuraghazra/github-readme-stats)
+### Hey There! I'm Peter
 
 <details>
 <summary align="center"><samp>Find out about me &#8595</samp></summary>
-<p> I'm <a href="http://peterbinks.net">Peter (he/him)</a>. I am a design engineer, and I make fast, reliable, and accessible websites. I like Typescript, CSS, and sandwiches.</p>
-
+<p>I am a design engineer, and I make fast, reliable, and accessible websites. I like Typescript, CSS, and sandwiches.</p>
+<br><br>
+<a href="http://peterbinks.net">Check out my website</a><br>
 <a href="https://twitter.com/peterbinks">Follow me on Twitter</a>
 </details>
